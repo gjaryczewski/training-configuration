@@ -1,0 +1,3 @@
+set MyCustomPrefix_MyPosition__Title=Editor_with_customPrefix
+set MyCustomPrefix_MyPosition__Name=Environment_Rick_cp
+dotnet run
